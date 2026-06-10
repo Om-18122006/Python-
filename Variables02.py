@@ -7,3 +7,9 @@ age2 = age
 print(name)
 print("Age is :" ,age)
 print(age2)
+
+print("type of variables")
+
+print(type(name))
+print(type(age))
+print(type(price))
