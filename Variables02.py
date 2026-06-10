@@ -13,3 +13,11 @@ print("type of variables")
 print(type(name))
 print(type(age))
 print(type(price))
+
+
+#types of variables 
+#Integers  a = 4
+#string  a= "om"
+#float  a= 3.99
+#boolean a = False 
+#none   a = ____
