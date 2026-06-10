@@ -19,5 +19,5 @@ print(type(price))
 #Integers  a = 4
 #string  a= "om"
 #float  a= 3.99
-#boolean a = False 
+#boolean a = False / True 
 #none   a = ____
