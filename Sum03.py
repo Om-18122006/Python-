@@ -5,3 +5,9 @@ sum = a + b
 print(sum )
 
 
+# comments in Py 
+"""
+for multi line comments in python 
+
+shortout cmd +/
+"""
